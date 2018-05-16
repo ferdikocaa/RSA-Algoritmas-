@@ -1,0 +1,6 @@
+C:\Users\ferdikocaa\Desktop\RSA\RSA\bin\Debug\RSA.exe.config
+C:\Users\ferdikocaa\Desktop\RSA\RSA\bin\Debug\RSA.exe
+C:\Users\ferdikocaa\Desktop\RSA\RSA\bin\Debug\RSA.pdb
+C:\Users\ferdikocaa\Desktop\RSA\RSA\obj\Debug\RSA.csprojResolveAssemblyReference.cache
+C:\Users\ferdikocaa\Desktop\RSA\RSA\obj\Debug\RSA.exe
+C:\Users\ferdikocaa\Desktop\RSA\RSA\obj\Debug\RSA.pdb
